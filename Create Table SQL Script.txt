@@ -1,0 +1,10 @@
+CREATE TABLE student (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+first_name VARCHAR(30) NOT NULL,
+last_name VARCHAR(30) NOT NULL,
+email VARCHAR(50),
+pocket_money INT(10),
+password VARCHAR(50),
+is_deleted TINYINT(1) NOT NULL DEFAULT '0'
+)
+GO

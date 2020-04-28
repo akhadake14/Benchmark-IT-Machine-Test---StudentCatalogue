@@ -1,0 +1,12 @@
+This is a sample assignment to save student information and show saved data. This is unfinished work and there are some errors which you are supposed to identify and fix. 
+
+Important Todos:
+1) The current code is written in a single file. You are expected to make it in a structured MVC way.
+2) Database tables do not exist. Please use the SQL Table creation script available to create the table.
+3) Follow proper OOPs concepts. 
+4) Best coding practices should be followed. (Code structure, Naming conventions, File Structure, Comments, Validations, etc.)
+5) The student information needs to be saved in the database with proper validations.
+6) Data security should be kept in mind while implementing this assignment.
+7) Show the 2nd highest pocket money of the student in an optimized way.
+8) In the student list section write code to highlight records in blue color that are having ID as prime number only.
+9) Create two partial views for Add and Listing and include those in single view to display

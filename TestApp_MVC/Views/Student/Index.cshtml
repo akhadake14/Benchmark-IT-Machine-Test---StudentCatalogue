@@ -1,0 +1,9 @@
+﻿@model IEnumerable<StudentCatalogue.BLL.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Students</h2>
+
+@Html.Partial("~/Views/Shared/_ListStudents.cshtml", Model)

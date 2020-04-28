@@ -1,0 +1,8 @@
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\bin\Debug\StudentCatalogue.DAL.dll
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\bin\Debug\StudentCatalogue.DAL.pdb
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\bin\Debug\StudentCatalogue.BLL.dll
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\bin\Debug\StudentCatalogue.BLL.pdb
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\obj\Debug\StudentCatalogue.DAL.csprojAssemblyReference.cache
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\obj\Debug\StudentCatalogue.DAL.csproj.CopyComplete
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\obj\Debug\StudentCatalogue.DAL.dll
+E:\BenchMarkITSolution Machine test\Default Machine Test\StudentCatalogue.DAL\obj\Debug\StudentCatalogue.DAL.pdb
